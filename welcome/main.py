@@ -1,5 +1,3 @@
-
-
 from varr import pii
 
 r = 7
